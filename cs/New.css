@@ -1,0 +1,84 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url('SAVE_20210319_051930.jpg');  
+    font-family: 'Arial';  
+}  
+.login{  
+        width: 362px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background:#ffffff;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: #ffffff;  
+    padding: 30px;  
+} 
+ 
+.label{  
+    color: #000000;  
+    font-size: 17px;  
+    text-align: center;
+}  
+#fist{  
+    width: 362px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 6px; 
+
+}  
+#last{  
+    width: 362px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 6px;  
+      
+}  
+#Email{  
+    width: 362px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 6px;  
+}
+#phone{  
+    width: 362px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 6px;  
+}
+#Pass{  
+    width: 362px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 6px; 
+}
+#lo{
+    width: 362px;  
+    height: 23px;  
+    border: ;  
+    border-radius: 10px;  
+    padding-left: 10px;  
+      
+}
+
+
+   
+span{  
+    color: #ffffff;  
+    font-size: 40px;  
+}  
+a{  
+    float: right;  
+    background-color: #b0c4de;  
+}  
